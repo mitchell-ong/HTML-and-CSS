@@ -1,0 +1,19 @@
+#container {
+    border: 3px slategray solid;
+}
+
+#container p {
+    background-color: yellow;
+}
+
+#container > p{
+    background-color: yellow;
+}
+
+#container ~ p{
+    background-color: yellow;
+}
+
+#container + p{
+    background-color: yellow;
+}

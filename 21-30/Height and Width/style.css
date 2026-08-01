@@ -1,0 +1,15 @@
+.container {
+    background-color: lightslategray;
+    height: 100vh;
+}
+
+.box {
+    border: 2px solid cadetblue;
+    padding: 25px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    float: left;
+    text-align: center;
+    max-height: 75%;
+}

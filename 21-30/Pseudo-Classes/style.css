@@ -1,0 +1,41 @@
+a:link {
+    color: #3f8446;
+    font-size: 24px;
+}
+
+a:visited {
+    color: #3f8446;
+    font-size: 24px;
+}
+
+a:hover {
+    color: #94f59b;
+    font-size: 36px;
+}
+
+a:active {
+    color: firebrick;
+    font-size: 24px;
+}
+
+li:hover {
+    background-color: #b7ffa5;
+}
+
+li:not(:hover) {
+    background-color: #767676;
+}
+
+li:nth-child(6) {
+    background-color: #a4ff93;
+}
+
+#greeting p{
+    background-color: #0098ff;
+    padding: 10px;
+    display: none;
+}
+
+#greeting:hover p {
+    display: block;
+}

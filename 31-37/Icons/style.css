@@ -1,0 +1,33 @@
+.icons {
+    text-align: center;
+}
+.icons a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-house {
+    color: darkolivegreen;
+}
+.fa-house:hover {
+    color: #abe367;
+}
+.fa-cat {
+    color: coral;
+}
+.fa-cat:hover {
+    color: #ffbaa8;
+}
+
+.fa-box-archive {
+    color: navy;
+}
+.fa-box-archive:hover {
+    color: #4c4c71;
+}
+
+.fa-baseball {
+    color: orangered;
+}
+.fa-baseball:hover {
+    color: #ff9d74;
+}

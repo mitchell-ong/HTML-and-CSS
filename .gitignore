@@ -1,0 +1,15 @@
+# IDE / Editor project files
+.idea/
+.vs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Large media (uncomment if you don't want these tracked in Git)
+# music/
+# video/

@@ -1,0 +1,20 @@
+@font-face {
+    src: url(Bangers.ttf);
+    font-family: 'Bangers';
+}
+
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    font-family: Bangers, arial, serif;
+    color: orangered;
+}
+
+p {
+    font-family: "Comic Sans MS", arial, serif;
+    font-size: 16px;
+    font-weight: bolder;
+    font-variant: small-caps;
+}

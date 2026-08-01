@@ -1,0 +1,32 @@
+h1:first-letter {
+    font-size: 2em;
+    color: lightseagreen;
+}
+
+p::first-line {
+    color: #407142;
+}
+
+p::selection {
+    color: orangered;
+    background-color: #696969;
+}
+
+#fruit li::marker {
+    content: "√";
+    color: green;
+    font-size: 1.2em;
+}
+
+#orange::after {
+    content: "🍊"
+}
+
+#apple::after {
+    content: "🍏";
+}
+
+#melon::after {
+    content: "🍉";
+}
+
